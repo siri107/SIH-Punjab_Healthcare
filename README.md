@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/dhinakaranmandepudi7-8422s-projects/v0-punjab-health-app](https://vercel.com/dhinakaranmandepudi7-8422s-projects/v0-punjab-health-app)**
+**[https://v0.app/chat/punjab-health-app-obz2390fusW](https://v0.app/chat/punjab-health-app-obz2390fusW)**
 
 ## Build your app
 
